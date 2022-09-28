@@ -128,7 +128,7 @@ flight3%>%
   ylab("cancelled flights")
 ```
 
-![](stat-433-hw1_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](unnamed-chunk-4-1.png)<!-- -->
 
 ``` r
 flight3%>%
@@ -139,7 +139,7 @@ flight3%>%
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](stat-433-hw1_files/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
+![](unnamed-chunk-4-2.png)<!-- -->
 
 ``` r
 par(mfrow=c(2,2))
