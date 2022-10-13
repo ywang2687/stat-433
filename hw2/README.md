@@ -90,7 +90,7 @@ flight3%>%
   geom_point()
 ```
 
-![](stat-433-hw2_files/figure-gfm/unnamed-chunk-4-1.png)<!-- --> **The
+![](unnamed-chunk-4-1.png)<!-- --> **The
 simple line plot proves that at 7am we can expect the smallest
 proportion of delay without consideration of other factors. There’s also
 a increasing trend of proportion of day as hour increases.**
@@ -154,7 +154,7 @@ flight4%>%
     ## geom_path: Each group consists of only one observation. Do you need to adjust
     ## the group aesthetic?
 
-![](stat-433-hw2_files/figure-gfm/unnamed-chunk-6-1.png)<!-- --> The
+![](unnamed-chunk-6-1.png)<!-- --> The
 plot shows that AS at 7 am has the smallest proportion of delay
 flights.From the plot, we also see AS, HA,OO, and YV have a few
 observations. In general, the proportion of delay increases as hour
@@ -340,7 +340,7 @@ m1%>%
   geom_point()
 ```
 
-![](stat-433-hw2_files/figure-gfm/unnamed-chunk-13-1.png)<!-- --> The
+![](unnamed-chunk-13-1.png)<!-- --> The
 plot shows that carrier AA has the smallest average delay, followed by
 carrier DL.
 
@@ -404,7 +404,7 @@ flight5%>%
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
-![](stat-433-hw2_files/figure-gfm/unnamed-chunk-15-1.png)<!-- --> There
+![](unnamed-chunk-15-1.png)<!-- --> There
 are also increasing trends for proportion of delay versus hour for four
 seasons. Fall tends to have smaller proportion of delay than other
 seasons generally, and summer tends to have larger proportion of delay
@@ -454,7 +454,7 @@ flight6%>%
   geom_point()
 ```
 
-![](stat-433-hw2_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+![](unnamed-chunk-17-1.png)<!-- -->
 
 Generally, there is an increasing trend for proportion of delay versus
 hour for all airports. For specific pattern, all airports tend to have
