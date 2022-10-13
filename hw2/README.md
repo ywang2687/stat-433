@@ -289,7 +289,7 @@ dest1%>%
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
 
-![](stat-433-hw2_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](unnamed-chunk-11-1.png)<!-- -->
 Unfortunately, I don’t see any general pattern if the data is grouped by
 hour and carrier with those three most popular destination.
 
